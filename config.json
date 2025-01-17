@@ -1,16 +1,16 @@
 {
-  "author": "ryuko",
-  "language": "english",
+  "author": "Ulric",
+  "language": "french",
   "allowinbox": false,
   "adminonly": false,
   "autocreatedb": true,
   "approval": false,
-  "premium": false,
+  "premium": true,
   "autopost": true,
-  "email": "sanjivfresh@gmail.com",
-  "adminpass": "ryukodev",
+  "email": "atayiulric@gmail.com",
+  "adminpass": "ulricdev",
   "operators": [
-    "100091459940475"
+    "61571805561846"
   ],
   "autorestart": {
     "status": true,
